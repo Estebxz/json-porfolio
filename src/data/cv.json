@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Erika Jhorleny Mayorga Pradera",
+    "label": "Profesional en Seguridad y Salud en el Trabajo con mas de 2 años de experiencia & madre",
+    "image": "/user.webp",
+    "email": "erikajhorlenym@gmail.com",
+    "code": "+57",
+    "phone": "3",
+    "url": "https://",
+    "summary": "Profesional en Seguridad y Salud en el Trabajo y Técnico Profesional en Nómina y Prestaciones Sociales. Mi formación incluye conocimientos en la identificación y evaluación de riesgos laborales, implementación de programas de prevención, y administración de nóminas y prestaciones sociales.Adicionalmente, cuento con una sólida formación en herramientas ofimáticas,como Excel Avanzado, Word y Power Point, que me permiten desempeñar eficientemente mis funciones",
+    "location": {
+      "address": "carrera 14 sur #100-80",
+      "postalCode": "08820",
+      "city": "Ibague - Tolima",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Erika",
+        "url": "linkedin.com/in/erika-jhorleny-mayorga-pradera-8ab142208"
+      },
+      {
+        "network": "X",
+        "username": "midudev",
+        "url": "https://x.com/midudev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ON CLICK SAS",
+      "position": "Auxiliar administrativo",      
+      "startDate": "2023-03-01",
+      "endDate": "2024-05-01",
+      "summary": "Auxiliar Administrativo con amplia experiencia en la gestión de tareas administrativas y atención al cliente. Reconocido por optimizar procesos, mejorar la organización y aumentar la productividad en entornos de oficina. Hábil en el uso de herramientas ofimáticas y en la comunicación efectiva.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Seguridad Nueva Era Ltda",
+      "position": "Guardia de seguridad",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Lideré la implementación de nuevos protocolos de seguridad, optimizando la vigilancia y reduciendo incidentes en un 20%. Coordiné la capacitación del personal en manejo de emergencias",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Manufactura rigady",
+      "position": "Operaria maquina de confección",
+      "startDate": "2019-02-01",
+      "endDate": "2020-12-01",
+      "summary": "Optimicé el funcionamiento de máquinas de confección, mejorando la eficiencia en la producción en un 15%. Implementé controles de calidad rigurosos y mantenimientos preventivos que redujeron el tiempo de inactividad.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad del Tolima",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Profesional en Seguridad y salud para el trabajo",
+    "studyType": "Tecnologo",
+    "startDate": "2019-02-01",
+    "endDate": "2023-12-01",
+    "score": "5.0",
+    "courses": [
+      "Seguridad - I"
+    ]
+  }, {
+    "institution": "Servicio Nacional de Aprendizaje(SENA)",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Tecnico en nomina y prestaciones sociales",
+    "studyType": "Tecnico",
+    "startDate": "2018-02-01",
+    "endDate": "2018-12-01",
+    "score": "5.0",
+    "courses": [
+      "Tecnico - I"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        "En desarrollo"
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "highlights": [
+        "",
+        ""
+      ],
+      "url": ""
+    }
+  ]
+}
